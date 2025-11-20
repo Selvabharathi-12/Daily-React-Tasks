@@ -1,0 +1,25 @@
+.btn{
+ padding: 10px 16px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+  background-color: black;
+}
+.primary{
+    color: rgb(9, 255, 235);
+}
+.danger{
+    color: yellow;
+      border: 5px solid black;
+    border-radius: 10px;
+}
+.normal{
+    color: #ff9292;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: rgb(207, 207, 207);
+}
+.main{
+margin-bottom: 50px;
+}
